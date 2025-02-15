@@ -1,0 +1,1 @@
+This repository demonstrates common and uncommon SQL errors.  The `bug.sql` file contains examples of incorrect data type usage, flawed comparisons, problematic NULL handling, and a lack of indexing. The `bugSolution.sql` file provides corrected versions of the queries and data definitions, highlighting best practices.
